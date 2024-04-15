@@ -82,24 +82,10 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://tz.linkedin.com/in/perfect-altruist/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" style="filter: invert(0.5) sepia(1) saturate(5) hue-rotate(160deg);"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/perfectaltruis"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png" style="filter: invert(0.5) sepia(1) saturate(5) hue-rotate(160deg);"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/channel/UCkhMmeBV6TpFDbvkFWapLzQ/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png" style="filter: invert(0.5) sepia(1) saturate(5) hue-rotate(160deg);"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://tz.linkedin.com/in/perfect-altruist/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" style="filter: invert(18%) sepia(94%) saturate(2694%) hue-rotate(158deg) brightness(97%) contrast(96%);"/></a>&#8287;
+  <a href="https://twitter.com/perfectaltruis"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png" style="filter: invert(18%) sepia(94%) saturate(2694%) hue-rotate(158deg) brightness(97%) contrast(96%);"/></a>&#8287;
+  <a href="https://www.youtube.com/channel/UCkhMmeBV6TpFDbvkFWapLzQ/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png" style="filter: invert(18%) sepia(94%) saturate(2694%) hue-rotate(158deg) brightness(97%) contrast(96%);"/></a>
 </p>
+
