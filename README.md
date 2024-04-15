@@ -5,9 +5,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=perfectaltruis.perfectaltruis" alt="Visitors" title="Visitors"/>
 </a>
 
-<p align="center">
-    <p style="color: teal; text-align: center;">Tito Joctan</p>
-  </a>
 
 <p align="center">
   <!-- Typing SVG by perfectaltruis - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -15,25 +12,13 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Python Programmer%20and%20Django%20developer;Student%20Bachelor%20of%20Cybersecurity;1 %20year%20of%20coding%20experience;Always%20strumming%20new%20Chords&font=Fira%20Code&center=true&width=500&height=45&color=f75e&vCenter=true&pause=2000&size=22" /></a>
 </p>
 
+
 <!-- Social icons section -->
 <p align="center">
-  <!-- <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
--->
-  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/perfectaltruis"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
--->
-  <a href="https://hashnode.com/@Altruist"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-<!-- <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a> -->
+  <a href="https://tz.linkedin.com/in/perfect-altruist/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" style="filter: invert(0.5) sepia(1) saturate(5) hue-rotate(160deg);"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/perfectaltruis"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png" style="filter: invert(0.5) sepia(1) saturate(5) hue-rotate(160deg);"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/channel/UCkhMmeBV6TpFDbvkFWapLzQ/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png" style="filter: invert(0.5) sepia(1) saturate(5) hue-rotate(160deg);"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-
-<br/>
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/perfectaltruis/custom-icon-badges -->
