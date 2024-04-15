@@ -6,10 +6,8 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/perfetaltruis" style="color: teal; text-decoration: none;">
     <p style="color: teal; text-align: center;">Tito Joctan</p>
   </a>
-</p>
 
 <p align="center">
   <!-- Typing SVG by perfectaltruis - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -52,6 +50,15 @@
 </p>
 <br/>
 
+<div align="center" style="font-weight: bold;">
+    💬 Let's explore 
+    <b><i style="color: rgb(94, 156, 213);">Python</i></b>, 
+    <b><i style="color: rgb(248, 194, 1);">Java</i></b>, 
+    <b><i style="color: rgb(46, 72, 123);">Postresql</i></b> 
+    and more <a href="https://twitter.com/perfectaltruis">here</a>
+</div>
+<br>
+
 # Language, Tools, and Frameworks.
 
 | Programming                                                                                                                                                                                                                                                                                         | Web                                                                                                                            | Databases                                                                                                                                                                                                                    | Tools                                                                                                                                                                                                                                                                                                                                                                                                                     | Frameworks                                                                                                                                                                                                                  |
@@ -60,43 +67,29 @@
 |                                                                                                                                                                                                                                                                                                     |                                                                                                                                |                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                             |**                                                                                                                                                                                                                         
 
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <h2>📊 Stats and Activity 📊 </h2>
-    <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <p>
-      <a href="https://github.com/perfectaltruis/perfectaltruis">
-        <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=perfectaltruis&theme=monokai-metallian&hide_border=true"/>
-      </a>
-      <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-    </p>
-  </div>
-  <div>
-    <h2 align='right'><i>Top Repos</i></h2>
-    <p align="right">
-      <a href="https://github.com/perfectaltruis/perfectaltruis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=perfectaltruis&repo=Programmer&theme=vue-dark&hide_border=true" height="185">
-      </a>
-    </p>
+<div align="center">
+
+  <h2>📊 Statistics 📊</h2>
+  <br>
+  <div align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=perfectaltruis&theme=dark" alt="Joctan's GitHub Streak" />
+    </a>
+    <br/><br/>
+    <a href="#">
+    <a href="https://github.com/perfectaltruis/"><img alt="perfect's Github Stats" src="https://github-readme-stats.vercel.app/api?username=perfectaltruis&show_icons=true&theme=dark#gh-dark-mode-only"/></a>
+    </a>
+    <br/><br/>
   </div>
 </div>
+
 
 <div style="text-align: center;">
   <h3>💻 GitHub Profile Stats</h3>
     <!-- https://github.com/perfectaltruis/perfectaltruis -->
-    <a href="https://github.com/perfectaltruis/"><img alt="perfect's Github Stats" src="https://github-readme-stats.vercel.app/api?username=perfectaltruis&show_icons=true&theme=dark#gh-dark-mode-only"/></a>
     <a href="https://github.com/perfectaltruis/perfectaltruis"><img alt="perfectaltruis's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=perfectaltruis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="205px"/></a>
 </div>
 
 <b><i>Note:</i></b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-<!--  📈 -->
-<!-- https://github.com/perfectaltruis/perfectaltruis-->
 
-<h2 align='center'><i><a href="https://github.com/perfectaltruis/perfectaltruis">Activity Graph</i></h2>
-<p align="center">
-  <a href="https://github.com/perfectaltruis/perfectaltruis#gh-light-mode-only">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=perfectaltruis&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-  </a>
-</p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Be+Proud+of+Your+Time!+...+🔥;"/></p>
