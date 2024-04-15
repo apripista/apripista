@@ -78,3 +78,28 @@
 <b><i>Note:</i></b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Be+Proud+of+Your+Time!+...+🔥;"/></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://tz.linkedin.com/in/perfect-altruist/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png" style="filter: invert(0.5) sepia(1) saturate(5) hue-rotate(160deg);"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/perfectaltruis"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png" style="filter: invert(0.5) sepia(1) saturate(5) hue-rotate(160deg);"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.youtube.com/channel/UCkhMmeBV6TpFDbvkFWapLzQ/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png" style="filter: invert(0.5) sepia(1) saturate(5) hue-rotate(160deg);"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
