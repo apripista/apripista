@@ -37,7 +37,7 @@
     <b><i style="color: rgb(94, 156, 213);">Python</i></b>, 
     <b><i style="color: rgb(248, 194, 1);">Java</i></b>, 
     <b><i style="color: rgb(46, 72, 123);">Postresql</i></b> 
-    and more <a href="https://twitter.com/perfectaltruis">here</a>
+    and more <a href="https://twitter.com/perfectaltruis" target="_blank">here</a>
 </div>
 <br>
 
