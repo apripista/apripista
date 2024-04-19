@@ -60,20 +60,29 @@
     <a href="#">
     <a href="https://github.com/perfectaltruis/"><img alt="perfect's Github Stats" src="https://github-readme-stats.vercel.app/api?username=perfectaltruis&show_icons=true&theme=dark#gh-dark-mode-only"/></a>
     </a>
-  
+    <a href="https:/github.com/perfectaltruis">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=perfectaltruis&theme=dark" alt="Joctan's GitHub Streak" />
+    </a>
+      
   </div>
 </div>
--->
+
 <!--
+
 <div style="text-align: center;">
   <h3>💻 GitHub Profile Stats</h3>
    <a href="https://github.com/perfectaltruis/perfectaltruis"><img alt="perfectaltruis's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=perfectaltruis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="205px"/></a>
 </div>
+
 -->
 
 <!-- <b><i>Note:</i></b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
+<!-- 
+
 ###### <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Raleway&size=20&center=true&vCenter=true&width=800&height=70&duration=6000&lines=The world is open source: build bridges and break barriers.!+...+🔥;"/></p>
+
+-->
 
 <!--social media updating tools -->
 <!--
