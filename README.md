@@ -4,6 +4,10 @@
 </a>
 -->
 
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=perfectaltruis.perfectaltruis)
+
+
 <p align="center">
     <!-- Typing SVG by perfectaltruis - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/perfectaltruis/">
