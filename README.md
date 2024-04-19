@@ -1,19 +1,14 @@
-<!--
 <a href="https://github.com/perfectaltruis/">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=perfectaltruis.perfectaltruis" alt="Visitors" title="Visitors"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=perfectaltruis.perfectaltruis" alt="visitors" title="visitors"/>
 </a>
--->
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=perfectaltruis.perfectaltruis)
-
 
 <p align="center">
     <!-- Typing SVG by perfectaltruis - https://github.com/DenverCoder1/readme-typing-svg -->
-    <a href="https://github.com/perfectaltruis/">
+    <a href="https://github.com/perfectaltruis/readme-typing-svg">
         <img src="https://readme-typing-svg.demolab.com/?lines=Student%20Bachelor%20of%20Cybersecurity;Python%20Programmer%20and%20Django%20developer;1%20year%20of%20coding%20experience;Always%20strumming%20new%20Chords;&font=Raleway&size=20&center=true&width=800&height=70&duration=8000&color=1abc9c&vCenter=true&pause=2000&size=32" />
     </a>
 </p>
+
 
 <!-- Social icons section -->
 <p align="center">
@@ -42,39 +37,44 @@
     <b><i style="color: rgb(94, 156, 213);">Python</i></b>, 
     <b><i style="color: rgb(248, 194, 1);">Java</i></b>, 
     <b><i style="color: rgb(46, 72, 123);">Postresql</i></b> 
-    and more <a href="https://twitter.com/perfectaltruis" target="_blank">here</a>
+    and more <a href="https://twitter.com/perfectaltruis">here</a>
 </div>
 <br>
 
-<h3 align="center">
- Language, Tools, and Frameworks. </h3>
+<h3 style="text-align: center;"> Language, Tools, and Frameworks. </h3>
 
 | Programming                                                                                                                                                                                                                                                                                         | Web                                                                                                                            | Databases                                                                                                                                                                                                                    | Tools                                                                                                                                                                                                                                                                                                                                                                                                                     | Frameworks                                                                                                                                                                                                                  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Python](https://img.icons8.com/color/48/000000/python.png) Python<br>![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java<br>![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++<br>![C](https://img.icons8.com/color/48/000000/c-programming.png) C | ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML<br>![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL<br>![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL<br>![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) SQL | ![Visual Studio Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png) Visual Studio Code<br>![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) PyCharm<br>![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png) IntelliJ IDEA<br>![Git](https://img.icons8.com/color/48/000000/git.png) Git<br>![GitHub](https://img.icons8.com/fluent/48/000000/github.png) GitHub | ![Django](https://img.icons8.com/color/48/000000/django.png) Django<br>![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot<br>![Flask](https://img.icons8.com/ios/50/000000/flask.png) Flask |
 |                                                                                                                                                                                                                                                                                                     |                                                                                                                                |                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                             |**                                                                                                                                                                                                                         
 
+
 <div align="center">
   <h2>📊 Statistics 📊</h2>
   <br>
   <div align="center">
+    <br/><br/>
     <a href="#">
     <a href="https://github.com/perfectaltruis/"><img alt="perfect's Github Stats" src="https://github-readme-stats.vercel.app/api?username=perfectaltruis&show_icons=true&theme=dark#gh-dark-mode-only"/></a>
     </a>
-    <a href="https://git.io/streak-stats">
+    <a href="https:/github.com/perfectaltruis">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=perfectaltruis&theme=dark" alt="Joctan's GitHub Streak" />
     </a>
+    <br/><br/>
   </div>
 </div>
+-->
 
-
-<!--<div style="text-align: center;">
+<!--
+<div style="text-align: center;">
   <h3>💻 GitHub Profile Stats</h3>
    <a href="https://github.com/perfectaltruis/perfectaltruis"><img alt="perfectaltruis's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=perfectaltruis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="205px"/></a>
 </div>
+-->
 
 <!-- <b><i>Note:</i></b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
+###### <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Raleway&size=20&center=true&vCenter=true&width=800&height=70&duration=6000&lines=The world is open source: build bridges and break barriers.!+...+🔥;"/></p>
 
 <!--social media updating tools -->
 <!--
