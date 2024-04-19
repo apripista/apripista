@@ -54,13 +54,12 @@
   <h2>📊 Statistics 📊</h2>
   <br>
   <div align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=perfectaltruis&theme=dark" alt="Joctan's GitHub Streak" />
-    </a>
     <a href="#">
     <a href="https://github.com/perfectaltruis/"><img alt="perfect's Github Stats" src="https://github-readme-stats.vercel.app/api?username=perfectaltruis&show_icons=true&theme=dark#gh-dark-mode-only"/></a>
     </a>
-    <br/><br/>
+    <a href="https://git.io/streak-stats">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=perfectaltruis&theme=dark" alt="Joctan's GitHub Streak" />
+    </a>
   </div>
 </div>
 
