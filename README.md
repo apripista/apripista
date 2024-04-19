@@ -1,6 +1,9 @@
+<!--
 <a href="https://github.com/perfectaltruis/">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=perfectaltruis.perfectaltruis" alt="visitors" title="visitors"/>
 </a>
+
+-->
 
 <p align="center">
     <!-- Typing SVG by perfectaltruis - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -65,7 +68,6 @@
 </div>
 -->
 
-<!--
 <div style="text-align: center;">
   <h3>💻 GitHub Profile Stats</h3>
    <a href="https://github.com/perfectaltruis/perfectaltruis"><img alt="perfectaltruis's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=perfectaltruis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="205px"/></a>
