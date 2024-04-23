@@ -1,9 +1,7 @@
-<!--
-<a href="https://github.com/perfectaltruis/">
+<a href="https://github.com/perfectaltruis">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=perfectaltruis.perfectaltruis" alt="visitors" title="visitors"/>
 </a>
 
--->
 
 <p align="center">
     <!-- Typing SVG by perfectaltruis - https://github.com/DenverCoder1/readme-typing-svg -->
