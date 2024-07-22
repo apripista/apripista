@@ -6,7 +6,7 @@
 <p align="center">
     <!-- Typing SVG by perfectaltruis - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/perfectaltruis/readme-typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Student%20Bachelor%20of%20Cybersecurity;Python%20Programmer%20and%20Django%20developer;1%20year%20of%20coding%20experience;Always%20strumming%20new%20Chords;&font=Raleway&size=20&center=true&width=800&height=70&duration=8000&color=1abc9c&vCenter=true&pause=2000&size=32" />
+        <img src="https://readme-typing-svg.demolab.com/?lines=Student:%20Bachelor%20of%20Cybersecurity;Python%20Programmer%20and%20Django%20Developer;1%20Year%20of%20Coding%20Experience;Always%20strumming%20new%20Chords;&font=Raleway&size=20&center=true&width=800&height=70&duration=8000&color=1abc9c&vCenter=true&pause=2000&size=32" />
     </a>
 </p>
 
