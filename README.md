@@ -1,8 +1,19 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<br>
+
+
+<p id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=perfectaltruis&style=for-the-badge&color=orange" alt=""/>
+</p>
+
+<!--
+
 <a href="https://github.com/perfectaltruis">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=perfectaltruis.perfectaltruis" alt="visitors" title="visitors"/>
 </a>
 
-
+-->
 <p align="center">
     <!-- Typing SVG by perfectaltruis - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/perfectaltruis/readme-typing-svg">
@@ -87,9 +98,4 @@
   <a href="https://dev.to/"><img width="32px" alt="Dev.to" title="perfectaltruis Dev.to" src="https://i.imgur.com/mVm29vK.png"></a> &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 -->
-
-
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-<br>
 
