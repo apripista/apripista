@@ -16,16 +16,6 @@
   <a href="https://twitter.com/perfectaltruis"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/channel/UCkhMmeBV6TpFDbvkFWapLzQ/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://tz.linkedin.com/in/perfect-altruist/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://twitter.com/perfectaltruis"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/channel/UCkhMmeBV6TpFDbvkFWapLzQ/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://tz.linkedin.com/in/perfect-altruist/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@intuitivers"><img width="32px" alt="Medium" title="Medium" src="https://i.imgur.com/HRJqRMt.png"/></a>
-</p>
-
-
 </p>
 
 <br/>
