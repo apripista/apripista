@@ -1,8 +1,5 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
 <br>
-
-
 <p id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=perfectaltruis&style=for-the-badge&color=orange" alt=""/>
 </p>
@@ -26,6 +23,7 @@
 <p align="center">
   <a href="https://twitter.com/perfectaltruis"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.youtube.com/channel/UCkhMmeBV6TpFDbvkFWapLzQ/"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://discord.com/channels/1278236321546113076/1278236321546113078" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://tz.linkedin.com/in/perfect-altruist/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
@@ -52,17 +50,8 @@
 </div>
 <br>
 
-<h3 style="text-align: center;"> Language, Tools, and Frameworks. </h3>
-
-| Programming                                                                                                                                                                                                                                                                                         | Web                                                                                                                            | Databases                                                                                                                                                                                                                    | Tools                                                                                                                                                                                                                                                                                                                                                                                                                     | Frameworks                                                                                                                                                                                                                  |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Python](https://img.icons8.com/color/48/000000/python.png) Python<br>![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java<br>![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++<br>![C](https://img.icons8.com/color/48/000000/c-programming.png) C | ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML<br>![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL<br>![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL<br>![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) SQL | ![Visual Studio Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png) Visual Studio Code<br>![PyCharm](https://img.icons8.com/color/48/000000/pycharm.png) PyCharm<br>![IntelliJ IDEA](https://img.icons8.com/color/48/000000/intellij-idea.png) IntelliJ IDEA<br>![Git](https://img.icons8.com/color/48/000000/git.png) Git<br>![GitHub](https://img.icons8.com/fluent/48/000000/github.png) GitHub | ![Django](https://img.icons8.com/color/48/000000/django.png) Django<br>![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot<br>![Flask](https://img.icons8.com/ios/50/000000/flask.png) Flask |
-|                                                                                                                                                                                                                                                                                                     |                                                                                                                                |                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                             |**                                                                                                                                                                                                                         
-
 
 <div align="center">
-  <h2>📊 Statistics 📊</h2>
-  <br>
   <div align="center">
     <br/><br/>
     <a href="#">
@@ -75,22 +64,15 @@
   </div>
 </div>
 
-<!--
 
 <div style="text-align: center;">
   <h3>💻 GitHub Profile Stats</h3>
    <a href="https://github.com/perfectaltruis/perfectaltruis"><img alt="perfectaltruis's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=perfectaltruis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="205px"/></a>
 </div>
 
--->
 
-<!-- <b><i>Note:</i></b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
-<!-- 
-
-###### <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Raleway&size=20&center=true&vCenter=true&width=800&height=70&duration=6000&lines=The world is open source: build bridges and break barriers.!+...+🔥;"/></p>
-
--->
+<b><i>Note:</i></b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
 <!--social media updating tools -->
 <!--
