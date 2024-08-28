@@ -65,12 +65,11 @@
 </div>
 
 
+<!--
 <div style="text-align: center;">
   <h3>💻 GitHub Profile Stats</h3>
    <a href="https://github.com/perfectaltruis/perfectaltruis"><img alt="perfectaltruis's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=perfectaltruis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="205px"/></a>
 </div>
-
-
 
 <b><i>Note:</i></b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 
