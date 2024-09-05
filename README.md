@@ -14,7 +14,7 @@
 <p align="center">
     <!-- Typing SVG by perfectaltruis - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/perfectaltruis/readme-typing-svg">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Student:%20Bachelor%20of%20Cybersecurity;Python%20Programmer%20and%20Django%20Developer;1%20Year%20of%20Coding%20Experience;Always%20strumming%20new%20Chords;&font=Raleway&size=20&center=true&width=800&height=70&duration=8000&color=1abc9c&vCenter=true&pause=2000&size=32" />
+        <img src="https://readme-typing-svg.demolab.com/?lines=Student%20:%20Bachelor%20of%20Cybersecurity;Java%20and%20Python%20Programmer;Spring%20Boot%20and%20Django%20Developer;1%20Year%20of%20Coding%20Experience;Always%20strumming%20new%20Chords;&font=Raleway&size=20&center=true&width=800&height=70&duration=8000&color=1abc9c&vCenter=true&pause=2000&size=32" />
     </a>
 </p>
 
@@ -60,7 +60,7 @@
     <a href="https:/github.com/perfectaltruis">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=perfectaltruis&theme=dark" alt="Joctan's GitHub Streak" />
     </a>
-      
+        <a href="https://github.com/perfectaltruis/perfectaltruis"><img alt="perfectaltruis's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=perfectaltruis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="205px"/></a> 
   </div>
 </div>
 
@@ -71,12 +71,12 @@
    <a href="https://github.com/perfectaltruis/perfectaltruis"><img alt="perfectaltruis's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=perfectaltruis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="205px"/></a>
 </div>
 
-<b><i>Note:</i></b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+<b><i>Note:</i></b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <!--social media updating tools -->
 <!--
   <a href="https://discord.gg/" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/"><img width="32px" alt="Dev.to" title="perfectaltruis Dev.to" src="https://i.imgur.com/mVm29vK.png"></a> &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
--->
+
 
