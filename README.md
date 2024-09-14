@@ -114,7 +114,15 @@
         <img src="https://komarev.com/ghpvc/?username=perfectaltruis&style=for-the-badge&color=orange" alt="Profile Views"/>
       </p>
       <p><img alt="perfectaltruis's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=perfectaltruis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/></p>
-    </td>
+    
+  <p>Tools
+  <!-- cybersecurity tools -->
+  <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" title="Kali Linux" />
+  <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" title="Metasploit" />
+  <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" title="Nmap" />
+
+
+  </td>
   </tr>
 
   <tr>
