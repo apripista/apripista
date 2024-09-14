@@ -10,11 +10,44 @@
     <!-- Typing SVG by perfectaltruis https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/perfectaltruis/readme-typing-svg">
         <img src="https://readme-typing-svg.demolab.com/?lines=Student%20:%20Bachelor%20of%20Cybersecurity;Java%20and%20Python%20Programmer;Spring%20Boot%20and%20Django%20Developer;1%20Year%20of%20Coding%20Experience;Always%20strumming%20new%20Chords;&font=Raleway&size=20&center=true&width=800&height=70&duration=8000&color=1abc9c&vCenter=true&pause=2000&size=32" />
-    </a></p>
+    </a>
 <!-- Social icons section -->
-  <p> <a href="https://medium.com/@intuitivers" alt="Medium" title="Medium">
-  <img width="32px" src="https://img.icons8.com/ios-filled/344/medium-monogram--v1.png"/>
-</a> </p>
+	<p align="center">
+  <!-- MEDIUM PROFILE -->
+  <a href="https://medium.com/@intuitivers" alt="Medium" title="Medium">
+    <img width="32px" src="https://img.icons8.com/color/344/medium-monogram--v1.png" alt="Medium"/>
+  </a> &#8287;&#8287;&#8287;
+
+  <!-- TWITTER PROFILE -->
+  <a href="https://twitter.com/perfectaltruis" alt="Twitter" title="Twitter">
+    <img width="32px" src="https://img.icons8.com/color/344/twitter.png" alt="Twitter"/>
+  </a> &#8287;&#8287;&#8287;
+
+  <!-- LINKEDIN PROFILE -->
+  <a href="https://www.linkedin.com/in/btlo/" alt="LinkedIn" title="LinkedIn">
+    <img width="32px" src="https://img.icons8.com/color/344/linkedin.png" alt="LinkedIn"/
+  </a> &#8287;&#8287;&#8287;
+
+  <!-- WHATSAPP PROFILE -->
+  <a href="https://wa.me/+255784182313" alt="WhatsApp" title="WhatsApp">
+    <img width="32px" src="https://img.icons8.com/color/344/whatsapp.png" alt="WhatsApp"/>
+  </a> &#8287;&#8287;&#8287;
+
+  <!-- BUY ME A COFFEE PROFILE -->
+  <a href="https://buymeacoffee.com/perfectaltruis" alt="Buy Me A Coffee" title="Buy Me A Coffee">
+    <img width="32px" src="https://img.icons8.com/color/344/coffee.png" alt="Buy Me A Coffee"/>
+  </a> &#8287;&#8287;&#8287;
+
+  <!-- TELEGRAM PROFILE -->
+  <a href="https://t.me/altruia" alt="Telegram" title="Telegram">
+    <img width="32px" src="https://img.icons8.com/color/344/telegram-app.png" alt="Telegram"/>
+  </a> &#8287;&#8287;&#8287;
+</p>
+<br/>
+
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
 <!-- GitHub Badges-
 <p align="center">
    <a href="https://github.com/perfectaltruis?tab=followers">
@@ -87,10 +120,3 @@
 	</tr>
 	</table>
 </div>
-
-
-
-
-<a href="https://medium.com/@intuitivers" alt="Medium" title="Follow me on Medium">
-  <img width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174858.png"/>
-</a> &#8287;&#8287;&#8287;&#8287;&#8287;
