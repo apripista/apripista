@@ -103,28 +103,26 @@
 -->
 
 
-
-
-
-
 <table>
   <tr>
     <td colspan="2">
       <p id="header" align="center">
         <img src="https://komarev.com/ghpvc/?username=perfectaltruis&style=for-the-badge&color=orange" alt="Profile Views"/>
       </p>
-      <p><img alt="perfectaltruis's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=perfectaltruis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/></p>
-    
-  <p>Tools
-  <!-- cybersecurity tools -->
-  <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" title="Kali Linux" />
+    </td>
+  </tr>
+  <tr>
+     <td><p><img alt="perfectaltruis's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=perfectaltruis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/></p>
+     </td>
+  <td>
+  <!-- cybersecurity Tools -->
+      <p>Tools</p>
+      <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" title="Kali Linux" />
   <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit" title="Metasploit" />
   <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap" title="Nmap" />
-
-
+   
   </td>
   </tr>
-
   <tr>
     <td align="center">
       <a href="https://github.com/perfectaltruis?tab=followers">
@@ -135,13 +133,11 @@
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/perfectaltruis?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
       </a>
     </td>
-
    <td>
 <p><strong><i>"There's No Secret:</i></strong> &nbsp;secret is<br> <strong>consistency</strong> over intensity. <br><strong>Progress</strong> over perfect, <br><strong>fundamentals</strong> over fads, <br> &nbsp; &nbsp;  ——Over and over again."
       </p>
 	  </td>
   </tr>
-
   <tr>
     <td colspan="2">
       <a href="https://github.com/perfectaltruis">
@@ -149,7 +145,6 @@
       </a>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <a href="https://github.com/perfectaltruis">
@@ -162,7 +157,6 @@
       </a>
     </td>
   </tr>
-
   <tr>
     <td>
       <!-- Languages -->
@@ -180,7 +174,6 @@
       <img src="https://img.icons8.com/fluency/48/000000/flask.png" alt="Flask" title="Flask"/>
     </td>
   </tr>
-
   <tr>
     <td>
       <!-- Operating Systems -->
