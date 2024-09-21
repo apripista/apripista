@@ -117,7 +117,7 @@
     <td>
       <!-- Operating Systems -->
       <p>OS</p>
-      <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux"/>
+
       <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" title="Kali Linux"/>
     </td>
     <td>
