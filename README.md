@@ -31,15 +31,6 @@
 
 </p>
 
-<div align="center" style="font-weight: bold;">
-    💬 Let's explore 
-    <b><i>Python</i></b>, 
-    <b><i>Java</i></b>, 
-    <b><i>Postresql</i></b> 
-    and more <a href="https://twitter.com/perfectaltruis">here</a>
-</div>
-<br>
-
 <table>
   <tr>
     <td colspan="2">
@@ -94,37 +85,6 @@
       <a href="https://github.com/apripista">
         <img alt="Apripista's Github Stats" src="https://github-readme-stats.vercel.app/api?username=apripista&show_icons=true&theme=dark#gh-dark-mode-only"/>
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <!-- Languages -->
-      <p>Languages</p>
-      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
-      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
-      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"/>
-      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
-    </td>
-    <td>
-      <!-- Frameworks -->
-      <p>Frameworks & Libraries</p>
-      <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" title="Django"/>
-      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" title="Spring Boot"/>
-      <img src="https://img.icons8.com/fluency/48/000000/flask.png" alt="Flask" title="Flask"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <!-- Operating Systems -->
-      <p>OS</p>
-      <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux" title="Kali Linux"/>
-    </td>
-    <td>
-      <!-- IDEs & Tools -->
-      <p>IDEs & Tools</p>
-      <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" title="VS Code"/>
-      <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
-      <img src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" title="PyCharm"/>
     </td>
   </tr>
 </table>
