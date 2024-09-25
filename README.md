@@ -23,8 +23,14 @@
 
 </p>
 
+  
+<div>
+  <table>
 
-<p align="center">
+   <tr>
+    <td colspan="2">
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=apripista&style=for-the-badge&color=orange" alt="Profile Views"/>
       <a href="https://github.com/apripista?tab=followers">
         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/apripista?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
       </a>
@@ -33,16 +39,6 @@
         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/apripista?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
       </a>
 </p>
-
-  
-<div>
-  <table>
-
-   <tr>
-    <td colspan="2">
-      <p id="header" align="center">
-        <img src="https://komarev.com/ghpvc/?username=apripista&style=for-the-badge&color=orange" alt="Profile Views"/>
-      </p>
     </td>
   </tr>
     <tr>
