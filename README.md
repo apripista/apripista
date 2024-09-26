@@ -1,4 +1,5 @@
 <p style: align="center"><strong>Joctan</strong></p>
+<hr>
 <p align="center">
 <!-- Typing SVG by perfectaltruis -->
     <a href="https://github.com/apripista">
@@ -23,9 +24,6 @@
 
 </p>
 
-  
-
- 
 <div>
   <table>
 
@@ -52,11 +50,11 @@
           <img src="http://github-readme-streak-stats.herokuapp.com? user=apripista&hide_border=true&bg_color=0A0A2A&dates=FF00FF&background=0A0A2A&ring=FF00FF&fire=FF0000&sideLabels=007FFF&sideNums=00CED1&currStreakNum=FFFFFF&currStreakLabel=008080" alt="GitHub Streak" />
         </a>
       </td>
-      <td width="50%">
-	      <img src="https://github-readme-stats.vercel.app/api?username=apripista&show_icons=true&include_all_commits=true&hide_border=true&title_color=008080&icon_color=9BE8E9&text_color=F3A7FF&bg_color=0A0A2A">
+      <td width="50%"><a href="https://github.com/apripista">
+	      <img src="https://github-readme-stats.vercel.app/api?username=apripista&show_icons=true&include_all_commits=true&hide_border=true&title_color=008080&icon_color=9BE8E9&text_color=F3A7FF&bg_color=0A0A2A"> </a>
       </td>
     </tr>
   </table>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=apripista&bg_color=0A0A2A&color=FFFFFF&line=008080&point=007FFF&area=true&area_color=00FFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=apripista&bg_color=0A0A2A&color=FFFFFF&line=008080&point=007FFF&area=true&area_color=00FFFF&hide_border=true)](https://github.com/apripista)
