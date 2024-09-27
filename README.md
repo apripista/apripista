@@ -1,4 +1,4 @@
-<p style: align="center"><strong>Joctan</strong></p>
+<p style: align="center"><strong><i>Joctan</i></strong></p>
 <hr>
 <p align="center">
 <!-- Typing SVG by perfectaltruis -->
