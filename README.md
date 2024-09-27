@@ -3,7 +3,7 @@
 <p align="center">
 <!-- Typing SVG by perfectaltruis -->
     <a href="https://github.com/apripista">
-        <img src="https://readme-typing-svg.demolab.com/?lines=Student%20:%20Bachelor%20of%20Cybersecurity;Java%20and%20Python%20Programmer;Spring%20Boot%20and%20Django%20Developer;1%20Year%20of%20Coding%20Experience; Writer%20On%20Medium%20;&font=Raleway&size=20&center=true&width=800&height=70&duration=8000&color=1abc9c&vCenter=true&pause=2000&size=32" />
+        <img src="https://readme-typing-svg.demolab.com/?lines=Student%20:%20Bachelor%20of%20Cybersecurity;Java%20and%20Python%20Programmer;Spring%20Boot%20and%20Django%20Developer;1%20Year%20of%20Coding%20Experience; Writer%20On%20Medium%20;&font=Merriweather&size=20&center=true&width=800&height=70&duration=8000&color=1abc9c&vCenter=true&pause=2000&size=32" />
     </a>
 <!-- Social icons section -->
 	<p align="center">
